@@ -18,5 +18,5 @@ This repository contains implementations of data structures in Java.
 
 You should see the output:
 ```
-Programi is running
+Program is running
 ```
